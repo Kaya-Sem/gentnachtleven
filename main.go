@@ -27,6 +27,7 @@ func main() {
 		providers := []cmd.EventProvider{
 			cmd.NewPalmariumProvider(),
 			cmd.NewClubWinterCircusProvider(),
+			cmd.NewKompassProvider(),
 		}
 
 		// Collect all events
@@ -72,4 +73,3 @@ func main() {
 	fmt.Println("Server starting on http://localhost:8080")
 	log.Fatal(server.ListenAndServe())
 }
-
