@@ -16,7 +16,7 @@ venues and platforms in Ghent:
 
 - [Kompass Klub](https://www.kompassklub.com/)
 - [Palmarium](https://www.democrazy.be/projects/palmarium/)
-- [Club Wintercircus](https://www.clubwintercircus.be/https://www.clubwintercircus.be/)
+- [Club Wintercircus](https://www.clubwintercircus.be)
 
 More venues are to be added in the future!
 
